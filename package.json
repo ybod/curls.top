@@ -1,0 +1,31 @@
+{
+  "name": "curls.top",
+  "version": "0.0.8",
+  "description": "curls: UAH exchange rates simply put into Your shell",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yurii Bodarev",
+  "license": "MIT",
+  "repository" : {
+    "type" : "git",
+     "url" : "https://github.com/Molly101/curls.top.git"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "chalk": "^1.1.1",
+    "ioredis": "^1.15.1",
+    "koa": "^1.2.0",
+    "lodash": "^4.6.1",
+    "moment": "^2.12.0",
+    "npmlog": "^2.0.3",
+    "request-promise": "^2.0.1",
+    "validate.js": "^0.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.5.1",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.2.3"
+  }
+}
