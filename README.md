@@ -4,7 +4,7 @@ This simple web app allows You to get actual _UAH/USD_ and _UAH/EUR_ exchange ra
 
 ## Usage
 
-You can access this app from a shell via ```curls curls.top``` command:
+You can access this app from a shell via ```curl curls.top``` command:
 
 ![Shell output screenshot](http://i.piccy.info/i9/20b771abfea8489068ebf277ab8c18b2/1459083281/49181/1018780/curls.jpg)
 
